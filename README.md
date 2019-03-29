@@ -1,4 +1,4 @@
-# pwn_wp
+# PWNable_wp
 
 ### 第一次任务writeup
 
@@ -7,4 +7,3 @@
 ### 第二次任务writeup
 
 + [silver_bullet](./tasks_2/wp_silver_bullet.md)
-# PWNable_wp
